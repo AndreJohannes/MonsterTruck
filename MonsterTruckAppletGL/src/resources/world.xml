@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+    <bar>
+        <A>0, 0</A>
+        <B>0, 530</B>
+    </bar>
+    <bar>
+        <A>0, 530</A>
+        <B>800, 530</B>
+    </bar>
+    <bridge name="leftbridge">
+        <StartPoint>580, 530</StartPoint>
+        <EndPoint>780, 330</EndPoint>
+        <Suspension>0, 175, 0</Suspension>
+        <Links>5</Links>
+    </bridge>
+    <point>
+        <center>780, 330</center>
+    </point>
+    <bar>
+        <A>780, 330</A>
+        <B>800, 330</B>
+    </bar>
+    <point>
+        <center>800, 330</center>
+    </point>
+    <foreground name="pillar">
+        <A>780, 530</A>
+        <B>800, 153</B>
+    </foreground>
+    <bridge name="mainbridge">
+        <StartPoint>800, 330</StartPoint>
+        <EndPoint>1300, 330</EndPoint>
+        <Suspension>50, 500, 0.5</Suspension>
+    </bridge>
+    <point>
+        <center>1300, 330</center>
+    </point>
+    <bar>
+        <A>1300, 330</A>
+        <B>1320, 330</B>
+    </bar>
+    <point>
+        <center>1320, 330</center>
+    </point>
+    <foreground name="pillar">
+        <A>1300, 530</A>
+        <B>1320, 153</B>
+    </foreground>
+    <bridge name="rightbridge">
+        <StartPoint>1320, 330</StartPoint>
+        <EndPoint>1520, 530</EndPoint>
+        <Suspension>0, 175, 1</Suspension>
+        <Links>5</Links>
+    </bridge>
+    <bar>
+        <A>1300, 530</A>
+        <B>1900, 530</B>
+    </bar>
+    <arc>
+        <center>1900, 430</center>
+        <radius>100</radius>
+        <startAngle>270</startAngle>
+        <arcAngle>60</arcAngle>
+    </arc>
+    <bar>
+        <A>1976, 494</A>
+        <B>2100, 330</B>
+    </bar>
+    <point>
+        <center>2100, 330</center>
+    </point>
+    <bar>
+        <A>2100, 330</A>
+        <B>2900, 330</B>
+    </bar>
+    <point>
+        <center>2900, 330</center>
+    </point>
+    <bar>
+        <A>2900, 330</A>
+        <B>3024, 494</B>
+    </bar>
+    <arc>
+        <center>3100, 430</center>
+        <radius>100</radius>
+        <startAngle>210</startAngle>
+        <arcAngle>60</arcAngle>
+    </arc>
+    <bar>
+        <A>3100, 530</A>
+        <B>3500, 530</B>
+    </bar>
+    <arc>
+        <center>3500, 560</center>
+        <radius>30</radius>
+        <startAngle>90</startAngle>
+        <arcAngle>-90</arcAngle>
+    </arc>
+    <arc>
+        <center>3730, 560</center>
+        <radius>200</radius>
+        <startAngle>180</startAngle>
+        <arcAngle>170</arcAngle>
+    </arc>
+    <bar>
+        <A>3926, 605</A>
+        <B>3936, 558.922</B>
+    </bar>
+
+    <arc>
+        <center>3970, 565</center>
+        <radius>35</radius>
+        <startAngle>170</startAngle>
+        <arcAngle>-80</arcAngle>
+    </arc>
+    <bar>
+        <A>3970, 530</A>
+        <B>5900, 530</B>
+    </bar>
+    <point>
+        <center>5900, 530</center>
+    </point>
+    <bar>
+        <A>5900, 530</A>
+        <B>5970, 560</B>
+    </bar>
+    <bar>
+        <A>5970, 560</A>
+        <B>6000, 570</B>
+    </bar>
+    <point>
+        <center>6000, 570</center>
+    </point>
+    <bar>
+        <A>6000, 570</A>
+        <B>6123, 625</B>
+    </bar>
+    <bar>
+        <A>6123, 625</A>
+        <B>6164, 642</B>
+    </bar>
+    <point>
+        <center>6164, 642</center>
+    </point>
+    <bar>
+        <A>6164, 642</A>
+        <B>6202, 661</B>
+    </bar>
+    <bar>
+        <A>6202, 661</A>
+        <B>6269, 665</B>
+    </bar>
+    <bar>
+        <A>6269, 665</A>
+        <B>6316, 640</B>
+    </bar>
+    <point>
+        <center>6316, 640</center>
+    </point>
+    <bar>
+        <A>6316, 640</A>
+        <B>6354, 632</B>
+    </bar>
+    <bar>
+        <A>6354, 632</A>
+        <B>6408, 603</B>
+    </bar>
+    <point>
+        <center>6404, 603</center>
+    </point>
+    <bar>
+        <A>6408, 603</A>
+        <B>6484, 594</B>
+    </bar>
+
+    <bar>
+        <A>6484, 594</A>
+        <B>6553, 552</B>
+    </bar>
+    <point>
+        <center>6553, 552</center>
+    </point>
+    <bar>
+        <A>6553, 552</A>
+        <B>7066, 494</B>
+    </bar>
+    <bar>
+        <A>7066,494</A>
+        <B>7263,418</B>
+    </bar>
+    <point>
+        <center>7263, 418</center>
+    </point>
+    <bar>
+        <A>7263,418</A>
+        <B>7477, 373</B>
+    </bar>
+    <point>
+        <center>7477, 373</center>
+    </point>
+    <bar>
+        <A>7477, 373</A>
+        <B>8400, 373</B>
+    </bar>
+
+
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, 118</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, 18</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -118</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -218</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -318</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -418</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -518</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -618</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -718</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -818</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -918</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1018</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1118</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1218</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1318</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1418</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1518</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1618</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1718</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -1818</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- <cylinder> -->
+    <!-- 		<center>6263, -1918</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -2018</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -2118</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -2218</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 	<cylinder> -->
+    <!-- 		<center>6263, -2318</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2418</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2518</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2618</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2718</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2818</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -2918</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3018</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3118</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3218</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3318</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3418</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3518</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3618</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3718</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3818</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -3918</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+    <!-- 		<cylinder> -->
+    <!-- 		<center>6263, -4018</center> -->
+    <!-- 		<radius>10</radius> -->
+    <!-- 	</cylinder> -->
+
+
+    <pendulum>
+        <center>3730, 560</center>
+        <radius>150</radius>
+    </pendulum>
+
+    <doublependulum>
+        <center>600, 100</center>
+    </doublependulum>
+    <doublependulum>
+        <center>4600, 300</center>
+    </doublependulum>
+    <doublependulum>
+        <center>4900, 300</center>
+    </doublependulum>
+
+    <!-- <coin> -->
+    <!-- <center>1450, 150</center> -->
+    <!-- </coin> -->
+
+    <block name="tomb">
+        <center>2390, 110</center>
+        <height>75</height>
+        <width>25</width>
+    </block>
+
+    <block name="tomb">
+        <center>2390, 210</center>
+        <height>75</height>
+        <width>25</width>
+    </block>
+
+    <block name="tomb">
+        <center>2390, 310</center>
+        <height>75</height>
+        <width>25</width>
+    </block>
+
+    <!-- 	<block name="tomb"> -->
+    <!-- 	<center>2390, 10</center> -->
+    <!-- 	<height>75</height> -->
+    <!-- 	<width>25</width> -->
+    <!-- 	</block> -->
+
+    <!-- 	<block name="tomb"> -->
+    <!-- 	<center>2390, -610</center> -->
+    <!-- 	<height>75</height> -->
+    <!-- 	<width>25</width> -->
+    <!-- 	</block> -->
+    <!-- 	<block name="tomb"> -->
+    <!-- 	<center>2390, -710</center> -->
+    <!-- 	<height>75</height> -->
+    <!-- 	<width>25</width> -->
+    <!-- 	</block> -->
+
+</world>
+

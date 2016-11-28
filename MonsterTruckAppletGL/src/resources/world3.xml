@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+	<bar>
+		<A>-500, 130</A>
+		<B>-500, 530</B>
+	</bar>
+	<bar>
+		<A>-500, 530</A>
+		<B>2500, 530</B>
+	</bar>
+	<bar>
+		<A>2500, 530</A>
+		<B>2500, 130</B>
+	</bar>
+	<pendulum>
+		<center>230, 360</center>
+		<radius>150</radius>
+	</pendulum>
+</world>
+

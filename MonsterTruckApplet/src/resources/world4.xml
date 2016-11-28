@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+	<bar>
+		<A>-500, 130</A>
+		<B>-500, 530</B>
+	</bar>
+	<bar>
+		<A>-500, 530</A>
+		<B>2500, 530</B>
+	</bar>
+	<bar>
+		<A>2500, 530</A>
+		<B>2500, 130</B>
+	</bar>
+
+	<block>
+		<center>190, 405</center>
+		<height>250</height>
+	</block>
+
+	<block>
+		<center>240, 220</center>
+		<width>250</width>
+	</block>
+
+	<block>
+		<center>290, 405</center>
+		<height>250</height>
+	</block>
+	
+	<cylinder>
+	     <center>240, 10</center>
+	 <radius>25</radius> -
+	</cylinder>
+	
+	<cylinder>
+	     <center>240, 110</center>
+	 <radius>25</radius> -
+	</cylinder>
+</world>
+

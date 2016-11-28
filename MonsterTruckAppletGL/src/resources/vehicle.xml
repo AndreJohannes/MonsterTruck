@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle>
+	<geometriccenter>98, 36</geometriccenter>
+	<centerofmass>10, 46</centerofmass>
+	<positionfrontwheel>62, 54</positionfrontwheel>
+	<positionRearWheel>-54, 54</positionRearWheel>
+	<bodygeometry>
+		<item>-88, -15</item>
+		<item>-88, -7</item>
+		<item>-12, -7</item>
+		<item>-12, -28</item>
+		<item>20, -28</item>
+		<item>40, -9</item>
+		<item>82, -2</item>
+		<item>82, 20</item>
+	</bodygeometry>
+	<radiuswheel>26</radiuswheel>
+	<frontbumper>
+		<A>96,-1</A>
+		<B>96,17</B>
+	</frontbumper>
+	<rearbumper>
+		<A>-94,9</A>
+		<B>-94,16</B>
+	</rearbumper>
+	<mass>1</mass>
+	<momentofinertia>10000</momentofinertia>
+</vehicle>
+
